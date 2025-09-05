@@ -16,6 +16,12 @@ RASIO는 안시 관측과 분광 관측을 동시에 수행할 수 있도록 설
 ## 👀 Project Description
 **RASIO(Raspberry + Astronomy + Spectrum + Instrument + Opensource)** 는 안시 관측과 분광 관측을 동시에 가능하게 하는 분광 장비입니다. 본 팀에서는 추가적으로 라즈베리파이를 이용하여 분광 데이터에 대한 분석한 데이터를 제공하는 프로그램 또한 추가로 제작하였습니다. 
 
+[![Raspberry](https://img.shields.io/badge/Raspberry-cc2955?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
+[![Astronomy](https://img.shields.io/badge/Astronomy-3b82f6?style=for-the-badge)](#)
+[![Spectrum](https://img.shields.io/badge/Spectrum-8b5cf6?style=for-the-badge)](#)
+[![Instrument](https://img.shields.io/badge/Instrument-10b981?style=for-the-badge)](#)
+[![Opensource](https://img.shields.io/badge/Opensource-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
+
 #### Raspberry
 
 #### Astronomy
