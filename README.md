@@ -2,7 +2,12 @@
 ## 🤔 What is "RASIO"?
 RASIO는 안시 관측과 분광 관측을 동시에 수행할 수 있도록 설계된 오픈소스 분광 장비입니다. 쌍안 장치를 이용하여 기존의 관측하는 빛을 두 갈래로 나누어 안시 관측과 분광 관측을 동시에 진행하는 것을 목표로 하였습니다. Sol'Ex, DBS114와 같은 기존의 다른 오픈소스를 기반으로 하여 본 프로젝트를 진행하였습니다.
 
-<img width="680" height="1168" alt="image" src="https://github.com/user-attachments/assets/169dc57a-5bd2-404c-be41-e99d12d55b31" />
+
+
+<p align="center"><img width="340" height="584" alt="image" src="https://github.com/user-attachments/assets/169dc57a-5bd2-404c-be41-e99d12d55b31" />
+
+----------
+## 🏗️ Structure of RASIO
 <img width="1003" height="716" alt="스크린샷 2025-09-05 오전 12 35 12" src="https://github.com/user-attachments/assets/edf1ba4f-6b6d-4aa8-a598-710ccc580e41" />
 
 
