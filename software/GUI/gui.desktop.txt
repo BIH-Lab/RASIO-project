@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=GUI
-Exec=/home/stellarmate/Desktop/run_gui.sh
-X-GNOME-Autostart-enabled=true
